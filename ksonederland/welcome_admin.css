@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #F7ECD8; /* Beige color from the logo */
+    color: #3C3C3B; /* Dark color for text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.welcome-box {
+    background-color: #FFFFFF; /* White background for the form */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 400px; /* Ensure the box doesn't get too wide */
+    margin: 0 auto; /* Center the box horizontally */
+}
+
+.welcome-box h2 {
+    color: #3C3C3B; /* Dark color for headings */
+    margin-bottom: 20px;
+}
+
+.welcome-box form {
+    margin-bottom: 15px; /* Adjusted margin between forms */
+}
+
+.welcome-box input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #3C6E71; /* Dark blue color for buttons */
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.welcome-box input[type="submit"]:hover {
+    background-color: #284B63; /* Darker blue on hover */
+}
+
+.welcome-box p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.welcome-box a {
+    color: #3C6E71; /* Dark blue color for links */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.welcome-box a:hover {
+    color: #284B63; /* Darker blue on hover */
+}

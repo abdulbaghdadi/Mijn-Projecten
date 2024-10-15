@@ -1,0 +1,350 @@
+011 Teelt van eenjarige gewassen
+012 Teelt van meerjarige gewassen
+013 Teelt van sierplanten en –bomen en bloembollen
+014 Fokken en houden van dieren
+015 Akker- en/of tuinbouw in combinatie met het fokken en houden van dieren
+016 Dienstverlening voor de landbouw; behandeling van gewassen na de oogst
+017 Jacht
+021 Bosbouw
+022 Exploitatie van bossen
+024 Dienstverlening voor de bosbouw
+031 Visserij
+032 Kweken van vis en schaaldieren
+
+061 Winning van aardolie
+062 Winning van aardgas
+
+081 Winning van zand, grind en klei
+089 Winning van overige delfstoffen
+
+091 Dienstverlening voor de winning van aardolie- en aardgas
+099 Dienstverlening voor de winning van delfstoffen (geen olie en gas)
+
+
+
+101 Slachterijen en vleesverwerking
+102 Visverwerking
+103 Verwerking van aardappels, groente en fruit
+104 Vervaardiging van plantaardige en dierlijke oliën en vetten
+105 Vervaardiging van zuivelproducten
+106 Vervaardiging van meel
+107 Vervaardiging van brood, vers banketbakkerswerk en deegwaren
+108 Vervaardiging van overige voedingsmiddelen
+109 Vervaardiging van diervoeders
+
+110 Vervaardiging van dranken
+
+120 Vervaardiging van tabaksproducten
+
+131 Bewerken en spinnen van textielvezels
+132 Weven van textiel
+133 Textielveredeling
+139 Vervaardiging van overige textielproducten
+
+141 Vervaardiging van kleding (geen bontkleding)
+142 Vervaardiging van artikelen van bont
+143 Vervaardiging van gebreide en gehaakte kleding
+
+151 Looien en bewerken van leer; vervaardiging van koffers, tassen, zadel- en tuigmakerswerk; bereiden en verven van bont
+152 Vervaardiging van schoenen
+
+161 Primaire houtbewerking en verduurzamen van hout
+162 Vervaardiging van artikelen van hout, kurk, riet en vlechtwerk (geen meubels)
+
+171 Vervaardiging van papierpulp, papier en karton
+172 Vervaardiging van papier- en kartonwaren
+
+181 Drukkerijen en dienstverlening voor drukkerijen
+182 Reproductie van opgenomen media
+
+191 Vervaardiging van cokesovenproducten
+192 Aardolieverwerking
+
+201 Vervaardiging van chemische basisproducten, kunstmeststoffen en stikstofverbindingen en van kunststof en synthetische rubber in primaire vorm
+202 Vervaardiging van verdelgingsmiddelen en overige landbouwchemicaliën
+203 Vervaardiging van verf, vernis e.d., drukinkt en mastiek
+204 Vervaardiging van zeep, wasmiddelen, poets- en reinigingsmiddelen, parfums en cosmetica
+205 Vervaardiging van overige chemische producten
+206 Vervaardiging van synthetische en kunstmatige vezels
+
+211 Vervaardiging van farmaceutische grondstoffen
+212 Vervaardiging van farmaceutische producten (geen grondstoffen)
+
+221 Vervaardiging van producten van rubber
+222 Vervaardiging van producten van kunststof
+
+231 Vervaardiging van glas en glaswerk
+232 Vervaardiging van vuurvaste keramische producten
+233 Vervaardiging van producten van klei voor de bouw
+234 Vervaardiging van overige keramische producten
+235 Vervaardiging van cement, kalk en gips
+236 Vervaardiging van producten van beton, gips en cement
+237 Natuursteenbewerking
+239 Vervaardiging van overige niet-metaalhoudende minerale producten
+
+241 Vervaardiging van ijzer en staal en van ferrolegeringen
+242 Vervaardiging van stalen buizen, pijpen, holle profielen en fittings daarvoor
+243 Overige eerste verwerking van staal
+244 Vervaardiging van edelmetalen en overige non-ferrometalen
+245 Gieten van metalen
+
+251 Vervaardiging van metalen producten voor de bouw
+252 Vervaardiging van reservoirs van metaal en van ketels en radiatoren voor centrale verwarming
+253 Vervaardiging van stoomketels (geen ketels voor centrale verwarming)
+254 Vervaardiging van wapens en munitie
+255 Smeden, persen, stampen en profielwalsen van metaal; poedermetallurgie
+256 Oppervlaktebehandeling en bekleding van metaal; algemene metaalbewerking
+257 Vervaardiging van scharen, messen en bestek, hang- en sluitwerk en gereedschap
+259 Vervaardiging van overige producten van metaal
+
+261 Vervaardiging van elektronische componenten en printplaten
+262 Vervaardiging van computers en randapparatuur
+263 Vervaardiging van communicatieapparatuur
+264 Vervaardiging van consumentenelektronica
+265 Vervaardiging van meet-, regel-, navigatie- en controleapparatuur en van uurwerken
+266 Vervaardiging van bestralingsapparatuur en van elektromedische en elektrotherapeutische apparatuur
+267 Vervaardiging van optische instrumenten en apparatuur
+268 Vervaardiging van informatiedragers
+
+271 Vervaardiging van elektromotoren, elektrische generatoren en transformatoren en van schakel- en verdeelinrichtingen
+272 Vervaardiging van batterijen en accumulatoren
+273 Vervaardiging van elektrische en elektronische kabels en van schakelaars, stekkers, stopcontacten e.d.
+274 Vervaardiging van elektrische lampen en verlichtingsapparaten
+275 Vervaardiging van huishoudapparaten
+279 Vervaardiging van overige elektrische apparatuur
+
+281 Vervaardiging van motoren, turbines, pompen, compressoren, appendages en drijfwerkelementen
+282 Vervaardiging van overige machines en apparaten voor algemeen gebruik
+283 Vervaardiging van machines en werktuigen voor de land- en bosbouw
+284 Vervaardiging van gereedschapswerktuigen
+289 Vervaardiging van overige machines, apparaten en werktuigen voor specifieke doeleinden
+
+291 Vervaardiging van auto's
+292 Carrosseriebouw; vervaardiging van aanhangwagens en opleggers
+293 Vervaardiging van onderdelen en toebehoren voor auto's
+
+301 Scheepsbouw
+302 Vervaardiging van rollend spoor- en tramwegmaterieel
+303 Vervaardiging van vliegtuigen en onderdelen daarvoor
+304 Vervaardiging van militaire gevechtsvoertuigen
+309 Vervaardiging van transportmiddelen (rest)
+
+310 Vervaardiging van meubels
+
+321 Slaan van munten; bewerken van edelstenen en vervaardiging van sieraden
+322 Vervaardiging van muziekinstrumenten
+323 Vervaardiging van sportartikelen
+324 Vervaardiging van spellen en speelgoed
+325 Vervaardiging van medische instrumenten en hulpmiddelen
+329 Vervaardiging van overige goederen
+
+331 Reparatie van producten van metaal, machines en apparatuur
+332 Installatie van industriële machines en apparatuur
+
+351 Productie van elektriciteit, transmissie en distributie van elektriciteit en aardgas
+352 Productie van gas
+353 Productie en distributie van stoom, warm water en gekoelde lucht
+
+360 Winning en distributie van water
+
+370 Afvalwaterinzameling en -behandeling
+
+381 Inzameling van afval
+382 Behandeling van afval
+383 Voorbereiding tot recycling
+
+390 Sanering en overig afvalbeheer
+411 Projectontwikkeling
+412 Algemene burgerlijke en utiliteitsbouw
+
+421 Bouw van wegen, spoorwegen en kunstwerken
+422 Leggen van kabels en buizen
+429 Bouw van overige civieltechnische werken
+
+431 Slopen van gebouwen, grondverzet en proefboren
+432 Bouwinstallatie
+433 Afwerking van gebouwen
+439 Dakbouw en overige gespecialiseerde werkzaamheden in de bouw
+
+
+451 Handel in auto's en aanhangers, eventueel gecombineerd met reparatie
+452 Gespecialiseerde reparatie van auto's
+453 Handel in auto-onderdelen en -accessoires
+454 Handel in en reparatie van motorfietsen en onderdelen daarvan
+
+461 Handelsbemiddeling
+462 Groothandel in landbouwproducten en levende dieren
+463 Groothandel in voedings- en genotmiddelen
+464 Groothandel in consumentenartikelen (non-food)
+465 Groothandel in ICT-apparatuur
+466 Groothandel in machines, apparaten en toebehoren voor industrie en handel
+467 Overige gespecialiseerde groothandel
+469 Niet-gespecialiseerde groothandel
+
+471 Supermarkten, warenhuizen en dergelijke winkels met een algemeen assortiment
+472 Gespecialiseerde winkels in voedings- en genotmiddelen
+473 Benzinestations
+474 Winkels in consumenten-elektronica
+475 Winkels in overige huishoudelijke artikelen
+476 Winkels in lectuur, sport- en kampeer- en recreatie-artikelen
+477 Winkels in overige artikelen
+478 Markthandel
+479 Detailhandel niet via winkel of markt
+
+
+491 Personenvervoer per spoor (geen tram of metro)
+492 Goederenvervoer per spoor
+493 Personenvervoer over de weg
+494 Goederenvervoer over de weg
+495 Transport via pijpleidingen
+
+501 Zee- en kustvaart (passagiersvaart en veerdienst)
+502 Zee- en kustvaart (vracht-, tank- en sleepvaart)
+503 Binnenvaart (passagiersvaart en veerdiensten)
+504 Binnenvaart (vracht-, tank- en sleepvaart)
+
+511 Personenvervoer door de lucht
+512 Goederenvervoer door de lucht
+
+521 Opslag
+522 Dienstverlening voor vervoer
+
+531 Nationale post met universele dienstverplichting
+532 Post zonder universele dienstverplichting en koeriers
+
+551 Hotels e.d.
+552 Verhuur van vakantiehuisjes en appartementen; jeugdherbergen en vakantiekampen
+553 Kampeerterreinen
+559 Overige logiesverstrekking
+
+561 Restaurants, cafetaria’s e.d.
+562 Kantines en catering
+563 Cafés
+
+581 Uitgeverijen van boeken, tijdschriften e.d.
+582 Uitgeverijen van software
+
+591 Productie en distributie van films en televisieprogramma's
+592 Maken en uitgeven van geluidsopnamen
+
+601 Radio-omroepen
+602 Televisie-omroepen
+
+611 Draadgebonden telecommunicatie
+612 Draadloze telecommunicatie
+613 Telecommunicatie via satelliet
+619 Overige telecommunicatie
+
+620 Dienstverlenende activiteiten op het gebied van informatietechnologie
+
+631 Gegevensverwerking, webhosting en aanverwante activiteiten; webportalen
+639 Overige dienstverlenende activiteiten op het gebied van informatie
+
+
+
+641 Geldscheppende financiële instellingen
+642 Financiële holdings
+643 Beleggingsinstellingen
+649 Kredietverstrekking en overige financiële intermediatie
+
+651 Verzekeringen (geen herverzekering)
+652 Herverzekering
+653 Pensioenfondsen
+
+661 Financiële bemiddeling, advisering e.d (niet voor verzekeringen en pensioenfondsen)
+662 Dienstverlening op het gebied van verzekeringen en pensioenfondsen
+663 Vermogensbeheer
+
+681 Handel in eigen onroerend goed
+682 Verhuur van onroerend goed
+683 Bemiddeling in en beheer van onroerend goed
+
+
+691 Rechtskundige dienstverlening
+692 Accountancy, belastingadvisering en administratie
+
+701 Holdings (geen financiële) en concerndiensten binnen eigen concern
+702 Advisering op het gebied van management en bedrijfsvoering
+
+711 Architecten, ingenieurs en technisch ontwerp en advies
+712 Keuring en controle
+
+721 Natuurwetenschappelijk speur- en ontwikkelingswerk
+722 Speur- en ontwikkelingswerk op het gebied van de maatschappij- en geesteswetenschappen
+
+731 Reclamebureaus en handel in advertentieruimte en -tijd
+732 Markt- en opinieonderzoekbureaus
+
+741 Industrieel ontwerp en vormgeving
+742 Fotografie en ontwikkelen van foto's en films
+743 Vertalers en tolken
+749 Overige specialistische zakelijke dienstverlening
+
+750 Veterinaire dienstverlening
+
+
+
+771 Verhuur en lease van auto's
+772 Verhuur van consumentenartikelen
+773 Verhuur en lease van machines en werktuigen en van overige goederen
+774 Lease van niet-financiële immateriële activa
+
+781 Arbeidsbemiddeling
+782 Uitzendbureaus, uitleenbureaus en banenpools
+783 Payrolling (personeelsbeheer)
+
+791 Reisbureaus en reisorganisatoren
+799 Informatieverstrekking op het gebied van toerisme en reserveringsbureaus
+
+801 Particuliere beveiliging
+802 Beveiliging via beveiligingssystemen
+803 Opsporing
+
+811 Facility management
+812 Reiniging
+813 Landschapsverzorging
+
+821 Brede administratieve en secretariële dienstverlening
+822 Call centers
+823 Organiseren van congressen en beurzen
+829 Overige zakelijke dienstverlening (rest)
+
+841 Openbaar bestuur
+842 Overheidsdiensten
+843 Verplichte sociale verzekeringen
+
+852 Primair en speciaal onderwijs
+853 Voortgezet onderwijs
+854 Tertiair onderwijs
+855 Overig onderwijs
+856 Dienstverlening voor het onderwijs
+
+
+861 Ziekenhuizen
+862 Medische en tandheelkundige praktijken
+869 Paramedische praktijken en overige gezondheidszorg zonder overnachting
+
+871 Verpleeghuizen
+872 Huizen en dagverblijven voor verstandelijk gehandicapten
+873 Huizen en dagverblijven voor niet-verstandelijk gehandicapten en verzorgingshuizen
+879 Jeugdzorg en maatschappelijke opvang met overnachting
+
+881 Maatschappelijke dienstverlening zonder overnachting gericht op ouderen en gehandicapten
+889 Maatschappelijke dienstverlening zonder overnachting niet specifiek gericht op ouderen en gehandicapten
+900 Kunst
+
+910 Culturele uitleencentra, openbare archieven, musea, dieren- en plantentuinen, natuurbehoud
+920 Loterijen en kansspelen
+931 Sport
+932 Overige recreatie
+
+
+
+941 Bedrijfs-, werkgevers- en beroepsorganisaties
+942 Werknemersorganisaties
+949 Levensbeschouwelijke en politieke organisaties, overige belangen- en ideële organisaties, hobbyclubs
+
+951 Reparatie van computers en communicatieapparatuur
+952 Reparatie van consumentenartikelen (geen computers, communicatieapparatuur, auto's en motorfietsen)
+
+960 Wellness en overige dienstverlening; uitvaartbranche

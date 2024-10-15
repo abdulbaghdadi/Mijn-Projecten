@@ -1,0 +1,137 @@
+/* Base styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F7ECD8; /* Updated background color */
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #3C3C3B; /* Updated text color */
+
+}
+
+/* Heading styles */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Message styles */
+.success-message {
+    color: green;
+}
+
+.error-message {
+    color: red;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f2f2f2;
+}
+
+table td form {
+    display: inline-block;
+    margin-right: 5px; /* Adjust the value as needed */
+}
+
+table td form button {
+    background-color: #284B63; /* Darker blue on hover */
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+table td form button:hover {
+    background-color: #334450; /* Darker blue on hover */
+}
+
+/* Form styles */
+.add-question {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.add-question label {
+    font-weight: bold;
+}
+
+.add-question input[type="text"] {
+    padding: 8px;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.add-question button {
+    background-color: #284B63; /* Darker blue on hover */
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.add-question button:hover {
+    background-color: #218838;
+}
+
+/* Link styles */
+.back-link,
+.logout-link {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: center;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.logout-link:hover {
+    text-decoration: underline;
+}
+input[type="submit" i] {
+    background-color: #284B63;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+
+}
+
+p a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3C6E71;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+button {
+    background-color: #284B63;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    
+}

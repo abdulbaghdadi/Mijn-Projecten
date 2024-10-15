@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F7ECD8; /* Beige color from the logo */
+    color: #3C3C3B; /* Dark color for text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 10px; /* Add some padding for smaller screens */
+    overflow: hidden;
+}
+
+.welcome-box {
+    background-color: #FFFFFF; /* White background for the box */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 400px; /* Ensure the box doesn't get too wide */
+    margin: 0 auto; /* Center the box horizontally */
+}
+
+.welcome-box h2 {
+    color: #3C3C3B; /* Dark color for headings */
+    margin-bottom: 20px;
+}
+
+
+
+.submit-button:hover {
+    background-color: #284B63; /* Darker blue on hover */
+}
+input[type="submit" i] {    display: inline-block;
+    padding: 15px 30px;
+    margin-top: 20px;
+    background-color: #3C6E71;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 600px) {
+    .welcome-box {
+        padding: 20px; /* Reduce padding on smaller screens */
+    }
+
+    .submit-button {
+        padding: 8px 16px; /* Adjust padding for smaller screens */
+    }
+}
