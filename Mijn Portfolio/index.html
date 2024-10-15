@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdul</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <p class="logo"><span>A</span>bdul</p>
+                <ul>
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#Projects">Projects</a></li>
+                </ul>
+            </nav>
+            <div class="header-text">
+                <p>Software Developer</p>
+                <h1>I'm <span>Abdul</span> from,<br> the Netherlands</h1>
+            </div>
+        </div>
+    </div>
+
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about1">
+                    <img src="images/about.png" alt="About Me">
+                </div>
+
+                <div class="about2">
+                    <h1 class="subtitle">About Me</h1>
+                    <br>
+                    <p>I’m a 19-year-old Software Development student in my third year at Technova College, specializing in web development. <br>I'm passionate about building responsive, user-friendly websites and constantly working on enhancing my skills in modern web technologies.</p>
+
+                    <div class="tabtitle">
+                        <p class="tablinks active-link" onclick="opentab(this, 'skills')">Skills</p>
+                        <p class="tablinks" onclick="opentab(this, 'experience')">Experience</p>
+                        <p class="tablinks" onclick="opentab(this, 'education')">Education</p>
+                    </div>
+
+                    <div class="tabcontents active-tab" id="skills">
+                        <ul>
+                            <li>Frond-End<br></li>
+                            <li>Back-End<br></li>
+                            <li>Designe<br></li>
+                        </ul>
+                    </div>
+
+                    <div class="tabcontents" id="experience">
+                        <ul>
+                            <li>Internship for six months at <span>Digilab.</span></li>
+                        </ul>
+                    </div>
+
+                    <div class="tabcontents" id="education">
+                        <ul>
+                            <li><span>Elementry School</span><br><p>Dalton School</p></li>
+                            <li><span>High School</span><br><p>Pantarijn School</p></li>
+                            <li><span>MBO</span><br><p>Technova College</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="Projects">
+        <div class="container">
+            <h1 class="subtitle">My Projects</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="images/kso.png">
+                    <div class="layer">
+                        <h3>KSO Nederland</h3>
+                        <p>KSO Monitor Nederlands project, I developed a custom website featuring an advanced form tailored to the unique needs of the organization. The main focus was on creating a multi-category, highly dynamic form that could handle intricate data input with precision.
+ 
+                             </p>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/netflix.png">
+                    <div class="layer">
+                        <h3>Netflix</h3>
+                        <p>As part of a school exercise, I recreated the Netflix homepage layout to practice front-end development skills.
+                             </p>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/huisarts.png">
+                    <div class="layer">
+                        <h3>General Practitioner</h3>
+                        <p>I developed a website for a general practitioner (GP). The goal of the website was to create a user-friendly platform for a GP to look up patient's and create appointments.
+                             </p>
+                    </div>
+                </div>
+
+                <div class="work">
+                    <img src="images/talentshow.png">
+                    <div class="layer">
+                        <h3>Talent Show</h3>
+                        <p>I developed a interactive website for a talent show where participants can easily sign up to showcase their skills.
+ 
+                             </p>
+                    </div>
+                </div>
+                
+            </div>
+            <a href="#" class="btn">See More</a>
+        </div>
+    </div>
+
+    <div class="copyright">
+        <p>© 2024 Abdul's Portfolio All rights reserved.</p>
+    </div>
+
+    <script>
+        // Get all tab links and contents
+        var tablinks = document.getElementsByClassName("tablinks");
+        var tabcontents = document.getElementsByClassName("tabcontents");
+
+        // Function to handle tab switching
+        function opentab(element, tabname) {
+            // Remove active-link class from all tablinks
+            for (var tablink of tablinks) {
+                tablink.classList.remove("active-link");
+            }
+
+            // Remove active-tab class from all tab contents
+            for (var tabcontent of tabcontents) {
+                tabcontent.classList.remove("active-tab");
+            }
+
+            // Add active-link class to the clicked tablink
+            element.classList.add("active-link");
+
+            // Add active-tab class to the corresponding tab content
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+    </script>
+</body>
+</html>
