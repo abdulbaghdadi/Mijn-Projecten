@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workout Planner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Workout Pagina</h1>
+        <nav>
+            <!-- Voeg navigatielinks toe voor verschillende secties van de SPA -->
+            <ul>
+                <li><a href="#" id="nav-exercise-list">Oefeningenlijst</a></li>
+                <li><a href="#" id="nav-workout-plan">Jouw Trainingsplan</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <div id="workout-container">
+        <!-- Definieer de contentcontainers voor elke sectie -->
+        <div id="exercise-list" class="spa-section">
+            <h2>Oefeningenlijst</h2>
+            
+            <label for="category-filter">Filter op Categorie:</label>
+            <select id="category-filter">
+                <option value="">Alle</option>
+                <option value="Cardio">Cardio</option>
+                <option value="Lower Body">Lower Body</option>
+                <option value="Core">Core</option>
+                <option value="Upper Body">Upper Body</option>
+            </select>
+            
+            <ul id="exercises">
+                <!-- Inhoud wordt hier dynamisch geladen -->
+            </ul>
+        </div>
+        <div id="workout-plan" class="spa-section">
+            <h2>Jouw Trainingsplan</h2>
+            <ul id="selected-exercises">
+                <!-- Inhoud wordt hier dynamisch geladen -->
+            </ul>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="script.js"></script>
+    <script>
+        // Jouw specifieke JavaScript-code voor de SPA komt hier
+
+        // Gebruik JavaScript om navigatie en het dynamisch laden van inhoud te behandelen
+        $(document).ready(function () {
+            // Toon in eerste instantie de sectie Oefeningenlijst
+            showSection('exercise-list');
+
+            // Behandel klikken op navigatie
+            $('#nav-exercise-list').click(function (e) {
+                e.preventDefault();
+                showSection('exercise-list');
+            });
+
+            $('#nav-workout-plan').click(function (e) {
+                e.preventDefault();
+                showSection('workout-plan');
+            });
+
+            // Functie om secties te tonen/verbergen op basis van de geklikte link
+            function showSection(sectionId) {
+                $('.spa-section').hide();
+                $('#' + sectionId).show();
+            }
+        });
+    </script>
+</body>
+</html>

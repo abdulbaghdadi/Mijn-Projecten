@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Push-ups",
+      "category": "Upper Body",
+      "youtubeVideoUrl": "https://www.youtube.com/shorts/yQEx9OC2C3E"
+
+
+    },
+    {
+      "id": 2,
+      "name": "Squat",
+      "category": "Lower Body",
+      "youtubeVideoUrl": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+
+    },
+    {
+      "id": 3,
+      "name": "Plank",
+      "category": "Core"
+    },
+    {
+      "id": 4,
+      "name": "Lunges",
+      "category": "Lower Body"
+    },
+    {
+      "id": 5,
+      "name": "Mountain Climbers",
+      "category": "Core"
+    },
+    {
+      "id": 6,
+      "name": "Burpees",
+      "category": "Full Body"
+    },
+    {
+      "id": 7,
+      "name": "Jumping Jacks",
+      "category": "Cardio"
+    },
+    {
+      "id": 8,
+      "name": "Deadlifts",
+      "category": "Lower Body"
+    },
+    {
+      "id": 9,
+      "name": "Russian Twists",
+      "category": "Core"
+    },
+    {
+      "id": 10,
+      "name": "Bicep Curls",
+      "category": "Upper Body"
+    },
+    {
+      "id": 11,
+      "name": "Tricep Dips",
+      "category": "Upper Body"
+    },
+    {
+      "id": 12,
+      "name": "High Knees",
+      "category": "Cardio"
+    },
+    {
+      "id": 13,
+      "name": "Side Plank",
+      "category": "Core"
+    },
+    {
+      "id": 14,
+      "name": "Calf Raises",
+      "category": "Lower Body"
+    },
+    {
+      "id": 15,
+      "name": "Sit-ups",
+      "category": "Core"
+    },
+    {
+      "id": 16,
+      "name": "Shoulder Press",
+      "category": "Upper Body"
+    },
+    {
+      "id": 17,
+      "name": "Box Jumps",
+      "category": "Cardio"
+    },
+    {
+      "id": 18,
+      "name": "Plank Jacks",
+      "category": "Core"
+    },
+    {
+      "id": 19,
+      "name": "Leg Press",
+      "category": "Lower Body"
+    },
+    {
+      "id": 20,
+      "name": "Rowing",
+      "category": "Cardio"
+    }
+  ]
+  
